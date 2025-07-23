@@ -1,6 +1,12 @@
+
 # 📊 Strategic Pricing & Sales Performance Analysis
 
 This project presents a comprehensive analysis of pricing, revenue, discounts, and sales performance across four major regions and five product categories: **Clothing, Electronics, Furniture, Groceries, and Toys**.
+
+
+
+<img src="dashboard.png" alt="Dashboard Overview" style="width: 100%;" />
+
 
 ## 🧠 Project Goal
 
@@ -11,7 +17,7 @@ Evaluate pricing strategies, benchmark against competitors, identify revenue opp
 ## 📍 Key Findings
 
 ### ✅ Sales vs. Orders (Regional Performance)
-![Units Sold vs Orders by Region](images/units_vs_orders.png)
+![Units Sold vs Orders by Region]
 > All regions sold more units than ordered – suggesting strong demand, backorders, or real-time sales fulfillment.
 
 - **South**: Highest surplus – indicates high demand or aggressive strategy
@@ -22,7 +28,7 @@ Evaluate pricing strategies, benchmark against competitors, identify revenue opp
 ## 💡 Dashboard Insights
 
 ### 🔍 Price Difference Panel
-![Price Comparison Chart](images/price_difference.png)
+![Price Comparison Chart]
 
 - **Normal Price**: ₹4,030,376.41  
 - **Competitor Price**: ₹4,031,178.26  
@@ -31,7 +37,7 @@ Evaluate pricing strategies, benchmark against competitors, identify revenue opp
 ---
 
 ### 💰 Revenue Performance Panel
-![Revenue Performance Gauge](images/revenue_performance.png)
+![Revenue Performance Gauge]
 
 - **Actual**: ₹494.97M  
 - **Target**: ₹500M  
@@ -41,7 +47,7 @@ Evaluate pricing strategies, benchmark against competitors, identify revenue opp
 
 ## 📈 Regional & Category Insights
 
-![Revenue by Region and Category](images/revenue_region_category.png)
+![Revenue by Region and Category]
 
 - **Clothing**: Dominates in South & East
 - **North**: Underperforms – requires strategy reevaluation
@@ -52,7 +58,7 @@ Evaluate pricing strategies, benchmark against competitors, identify revenue opp
 ## 📊 Trend Analysis
 
 ### 🔄 Price and Price Difference Over Time
-![Price Trends](images/price_trend.png)
+![Price Trends]
 
 - Notable **dip in Jan 2024**
 - Dynamic changes suggest active pricing strategies
@@ -61,7 +67,7 @@ Evaluate pricing strategies, benchmark against competitors, identify revenue opp
 ---
 
 ## 📌 Correlation Matrix
-![Correlation Heatmap](images/correlation_matrix.png)
+![Correlation Heatmap](corrr.png)
 
 - **Units Sold ↔ Forecast Demand**: 0.997  
 - **Price ↔ Competitor Pricing**: 0.994  
@@ -73,7 +79,7 @@ Evaluate pricing strategies, benchmark against competitors, identify revenue opp
 
 ## 📉 Linear Regression: Price vs. Units Sold
 
-![Linear Regression Plot](images/linear_regression.png)
+![Linear Regression Plot]
 
 - Positive slope implies **pricing power** in some categories
 - Moderate variability due to external factors
@@ -82,7 +88,7 @@ Evaluate pricing strategies, benchmark against competitors, identify revenue opp
 
 ## 🤖 Multiple Regression Output
 
-![Regression Model Summary](images/multiple_regression.png)
+![Regression Model Summary]
 
 - Predicts price using:
   - Units Sold
@@ -95,7 +101,7 @@ Evaluate pricing strategies, benchmark against competitors, identify revenue opp
 
 ## 💸 Discounts vs. Sales Volume
 
-![Discount vs Sales Scatterplot](images/discounts_vs_sales.png)
+![Discount vs Sales Scatterplot]
 
 - Discounts are not always linked to higher sales
 - **Clothing & Furniture** show strong performance without deep discounts
@@ -142,11 +148,6 @@ This project helps retailers and analysts:
 
 ---
 
-## 📬 Contact
 
-**Analyst:** [Your Name]  
-**Email:** [your.email@example.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
----
 
