@@ -149,8 +149,7 @@ This project helps retailers and analysts:
 - Align strategies across regions with evidence-based models
 
 ---
-
-Link: 
-https://ksuprod-my.sharepoint.com/:x:/r/personal/jnavya_kent_edu/Documents/analysys.xlsx?d=wdadc83e38a434685a61d63b662f7f4b0&csf=1&web=1&e=9roXII
+(File size is too large, download and see)
+Link: https://docs.google.com/spreadsheets/d/1BmuoxSE3vVtc-el4KB44ydgZoAfKoBPG/edit?usp=drive_link&ouid=103048089483700373584&rtpof=true&sd=true
 
 
