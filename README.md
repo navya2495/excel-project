@@ -133,9 +133,7 @@ Evaluate pricing strategies, benchmark against competitors, identify revenue opp
 
 ## 🛠 Tools Used
 
-- **Excel** – Forecast Sheet, Pivot Charts, Slicers  
-- **Power BI** – Dashboards, Drilldowns  
-- **Python** – Regression, Correlation (statsmodels, seaborn, pandas)
+- **Excel** – Forecast Sheet, Pivot Charts, Slicers ,Pivot tables, Data analysis 
 
 ---
 
