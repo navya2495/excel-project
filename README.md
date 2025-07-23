@@ -1,7 +1,7 @@
 # 🔗 Project Explanation
 For a detailed explanation of the project scope, goals, and methodology, refer to the following document:
 
-[📄 View Project Explanation](https://drive.google.com/file/d/1uYNvZjXzJX5ZUe/view?usp=sharing)
+[📄 View Project Explanation By Recording](https://drive.google.com/file/d/1uYNvZjX2HhHE8h1CUBpuGvtWlzJX5ZUe/view?usp=sharing)
 
 # 📊 Strategic Pricing & Sales Performance Analysis
 
